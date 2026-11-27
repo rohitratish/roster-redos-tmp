@@ -40,3 +40,11 @@ https://github.com/rohitratish/roster-redos-tmp/tree/main/portrait-redos
 | [char-pirate-pip-b.jpg](https://raw.githubusercontent.com/rohitratish/roster-redos-tmp/main/reworks/char-pirate-pip-b.jpg) | Pip B |
 
 Zip: see Releases → **reworks-v1**.
+
+## archive-all (everything recovered)
+Release: https://github.com/rohitratish/roster-redos-tmp/releases/tag/archive-all
+- archive-all.zip — full dump + MANIFEST.csv
+
+## round-02
+Release: https://github.com/rohitratish/roster-redos-tmp/releases/tag/round-02
+- Ossa A/B redo, Pip B retouch, cg-corvaine-g3, cg-hathra-g2, Vy'rrakh 4 expressions

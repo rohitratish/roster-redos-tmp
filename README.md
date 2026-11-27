@@ -14,3 +14,9 @@
 | `portrait-redos/` | Earlier portrait redos |
 
 See [DOWNLOADS.md](DOWNLOADS.md) for raw links.
+
+## Releases
+- `reworks-v1` — Part 2 reworks
+- `round-02` — Ossa/Pip/Gallery/Vyrrakh expressions
+- `archive-all` — full historical dump + MANIFEST
+- `delivery-v1` — gallery CGs + portrait redos
