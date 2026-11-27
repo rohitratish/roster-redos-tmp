@@ -22,3 +22,21 @@ Open the latest **Release** on this repo and download:
 
 ## Portrait redos
 https://github.com/rohitratish/roster-redos-tmp/tree/main/portrait-redos
+
+
+## reworks-v1 (1152×1728 q95 JPEG)
+
+| File | Character |
+|------|-----------|
+| [char-concord-rival-a.jpg](https://raw.githubusercontent.com/rohitratish/roster-redos-tmp/main/reworks/char-concord-rival-a.jpg) | Lyra A |
+| [char-concord-rival-b.jpg](https://raw.githubusercontent.com/rohitratish/roster-redos-tmp/main/reworks/char-concord-rival-b.jpg) | Lyra B |
+| [char-aurelai-ashen-a.jpg](https://raw.githubusercontent.com/rohitratish/roster-redos-tmp/main/reworks/char-aurelai-ashen-a.jpg) | Neriss A |
+| [char-aurelai-ashen-b.jpg](https://raw.githubusercontent.com/rohitratish/roster-redos-tmp/main/reworks/char-aurelai-ashen-b.jpg) | Neriss B |
+| [char-vhorr-unheard-a.jpg](https://raw.githubusercontent.com/rohitratish/roster-redos-tmp/main/reworks/char-vhorr-unheard-a.jpg) | Vy'rrakh A |
+| [char-vhorr-unheard-b.jpg](https://raw.githubusercontent.com/rohitratish/roster-redos-tmp/main/reworks/char-vhorr-unheard-b.jpg) | Vy'rrakh B |
+| [char-vhorr-thorn-a.jpg](https://raw.githubusercontent.com/rohitratish/roster-redos-tmp/main/reworks/char-vhorr-thorn-a.jpg) | Ossa A |
+| [char-vhorr-thorn-b.jpg](https://raw.githubusercontent.com/rohitratish/roster-redos-tmp/main/reworks/char-vhorr-thorn-b.jpg) | Ossa B |
+| [char-pirate-pip-a.jpg](https://raw.githubusercontent.com/rohitratish/roster-redos-tmp/main/reworks/char-pirate-pip-a.jpg) | Pip A |
+| [char-pirate-pip-b.jpg](https://raw.githubusercontent.com/rohitratish/roster-redos-tmp/main/reworks/char-pirate-pip-b.jpg) | Pip B |
+
+Zip: see Releases → **reworks-v1**.

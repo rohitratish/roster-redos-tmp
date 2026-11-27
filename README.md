@@ -1,9 +1,16 @@
 # Roster / Stellarch image delivery
 
-**Download from Releases or raw links — do not rely on Google Drive.**
+**Use this repo + Releases for downloads.** Google Drive is not used.
 
-See [DOWNLOADS.md](DOWNLOADS.md).
+## Releases
+- **[reworks-v1](https://github.com/rohitratish/roster-redos-tmp/releases/tag/reworks-v1)** — Lyra / Neriss / Vy'rrakh / Ossa / Pip A+B reworks (1152×1728)
+- **[delivery-v1](https://github.com/rohitratish/roster-redos-tmp/releases/tag/delivery-v1)** — Gallery CGs + portrait redos packs
 
-- `gallery-cgs/` — 9× 1280×720 q85 JPEGs (Zuhra-Benn, Corvaine, Hathra)
-- `portrait-redos/` — 8 portrait redos
-- `imagine/` — same files (compat path)
+## Folders
+| Path | Contents |
+|------|----------|
+| `reworks/` | Part 2 reworks (Lyra, Neriss, Vy'rrakh, Ossa, Pip) A/B |
+| `gallery-cgs/` | Zuhra-Benn, Corvaine, Hathra gallery CGs |
+| `portrait-redos/` | Earlier portrait redos |
+
+See [DOWNLOADS.md](DOWNLOADS.md) for raw links.
